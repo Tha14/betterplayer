@@ -4,7 +4,7 @@ version: 0.0.84
 # Disabled because of warning from analyzer
 # authors:
 #  - Abhinav Kumar Sintoo
-homepage: homepage: https://github.com/abhinav503/betterplayer
+homepage: https://github.com/abhinav503/betterplayer
 documentation: https://jhomlala.github.io/betterplayer/
 
 environment:
